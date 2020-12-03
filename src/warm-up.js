@@ -83,7 +83,7 @@ var books = [`The Tao of Wu`, `The Art of War`, `The Doors of Perception`, `They
 
 // Write the code to access the 3rd element of the Array, using bracket
 // notation.
-books.[2];
+books[2];
 
 // Create a new variable "belowTwoHundred" and assign it to an Array of 12
 // different numbers below two hundred.
